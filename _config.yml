@@ -1,0 +1,17 @@
+# Site settings
+title: Bit Recursion Software
+email: bitrecursion@gmail.com
+description: Android development
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "bitrecursion.com" # the base hostname & protocol for your site
+twitter_username: bitrecursion
+github_username:  bitrecursion
+
+# Build settings
+markdown: kramdown
+
+# Highlighter
+highlighter: pygments
+
+# Encoding
+encoding: utf-8
