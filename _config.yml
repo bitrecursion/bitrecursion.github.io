@@ -3,7 +3,7 @@ title: Bit Recursion Software
 email: bitrecursion@gmail.com
 description: Android development
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "bitrecursion.com" # the base hostname & protocol for your site
+url: "http://bitrecursion.com" # the base hostname & protocol for your site
 twitter_username: bitrecursion
 github_username:  bitrecursion
 
