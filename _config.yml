@@ -11,7 +11,7 @@ github_username:  bitrecursion
 markdown: kramdown
 
 # Highlighter
-highlighter: pygments
+highlighter: rouge
 
 # Encoding
 encoding: utf-8
